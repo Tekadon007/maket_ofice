@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,500;1,100;1,300;1,500&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* ABOUT css start */
+.About__text{
+  font-family: Montserrat;
+font-size: 50px;
+font-weight: 600;
+line-height: 61px;
+letter-spacing: 3.75px;
+text-align: center;
+
+}
+.WE__text{
+  font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0.3840000033378601px;
+text-align: center;
+
+}
+
+/* ABOUT css end */
+
+.text__h3{
+  font-family: Montserrat;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0.8640000224113464px;
+text-align: left;
+}
+
+.text__p{
+  font-family: Montserrat;
+font-size: 16px;
+font-weight: 300;
+line-height: 20px;
+letter-spacing: 0.3840000033378601px;
+text-align: center;
+
+
+}
+#mar {
+  margin-left: 30px !important; 
+}
+
+
+#redd :hover{
+color: rgb(231, 34, 34) !important;
+transition: 0,8s !important;
+}
+
+#der{
+  padding-left: 30px !important;
+}
+
+.ter__t{
+  font-family: Montserrat;
+font-size: 16px;
+font-weight: 300;
+line-height: 20px;
+letter-spacing: 0.3840000033378601px;
+text-align: center;
+
+}
+
+.na__text{
+  font-family: Raleway;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.vector__1{
+  font-family: Montserrat;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0.3840000033378601px;
+text-align: center;
+
+}
+
+.ber__t{
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: center;
+  margin-right: 140px !important;
+  margin-top: 30px !important;
+  
+}
+
+.aer__t{
+  font-family: Montserrat;
+font-size: 18px;
+font-weight: 300;
+line-height: 36px;
+letter-spacing: 0px;
+text-align: left;
+
+}
